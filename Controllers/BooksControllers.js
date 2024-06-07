@@ -82,7 +82,7 @@ module.exports = class BooksControllers{
         }else{
             res.redirect("/book/list");
         }
-
+    // imagine aqui a funcionalidade
 
     }
 }
